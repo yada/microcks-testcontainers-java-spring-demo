@@ -20,4 +20,3 @@ You will work with a Spring Boot application and explore how to:
 ## License Summary
 
 The code in this repository is made available under the MIT license. See the [LICENSE](LICENSE) file for details.
-TEST
